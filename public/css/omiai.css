@@ -1,0 +1,265 @@
+body {
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+    background-color: black;
+}
+
+header, footer {
+    background-color: black;
+}
+
+header h3, footer h3 {
+    color: white;
+    text-align: center;
+    margin-bottom: -0.3em;
+}
+
+.header-span {
+    padding: 3px;
+    border: 3px solid white;
+}
+
+footer {
+  margin-top: 1em;
+  margin-bottom: 3em;
+}
+
+.body {
+    background-color: white;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+
+.title h3 {
+    padding-top: 0.7em;
+    font-size: 1em;
+}
+
+.title p {
+    margin-top: -1.5em;
+    font-size: 0.7em;
+    color: grey;
+}
+
+.title img {
+    width: 100%;
+    margin-top: -0.5em;
+}
+
+.title-image-1 {
+  margin-bottom: -0.8em;
+}
+
+.title-span {
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+.arrow {
+  text-align: center;
+  font-size: 3em;
+}
+
+.line {
+  border-bottom: 2px solid grey;
+  padding-top: 1em;
+}
+
+.content {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-bottom: 1em;
+}
+
+.content h5 {
+    margin-bottom: -0.5em;
+}
+
+.content-h5-span {
+  font-size: 2em;
+}
+
+.content-h5-span-2 {
+  color: red;
+  font-size: 1.3em;
+}
+
+.content img {
+  width: 100%;
+  margin: 0.5em 0;
+}
+
+/*枠*/
+.box5 {
+    padding: 0.5em 0.5em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;
+}
+
+.box5 ol li {
+    font-weight: bold;
+    margin: 0; 
+    padding: 0;
+}
+
+.box5 ul li {
+    font-weight: bold;
+    margin: 0; 
+    padding: 0;
+}
+
+.box5-span {
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+.box5-span-2 {
+  font-size: 2em;
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+.img-margin {
+  margin-top: -2.5em;
+  margin-bottom: -1em;
+}
+
+/*LINE風CSS*/
+/*以下、①背景色など*/
+.line-bc {
+  padding: 20px 10px;
+  max-width: 450px;
+  margin: 15px auto;
+  text-align: right;
+  font-size: 14px;
+  background: #7da4cd;
+  margin-right: -1em;
+  margin-left: -1em;
+}
+
+/*以下、②左側のコメント*/
+.balloon6 {
+  width: 100%;
+  margin: 10px 0;
+  overflow: hidden;
+}
+
+.balloon6 .faceicon {
+  float: left;
+  margin-right: -50px;
+  width: 40px;
+}
+
+.balloon6 .faceicon img{
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.balloon6 .chatting {
+  width: 100%;
+  text-align: left;
+}
+
+.says {
+  display: inline-block;
+  position: relative; 
+  margin: 0 0 0 50px;
+  padding: 10px;
+  max-width: 250px;
+  border-radius: 12px;
+  background: #edf1ee;
+}
+
+.says:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 3px; 
+  left: -19px;
+  border: 8px solid transparent;
+  border-right: 18px solid #edf1ee;
+  -webkit-transform: rotate(35deg);
+  transform: rotate(35deg);
+}
+
+.says p {
+  margin: 0;
+  padding: 0;
+}
+
+/*以下、③右側の緑コメント*/
+.mycomment {
+  margin: 10px 0;
+}
+
+.mycomment p {
+  display: inline-block;
+  position: relative; 
+  margin: 0 10px 0 0;
+  padding: 8px;
+  max-width: 250px;
+  border-radius: 12px;
+  background: #30e852;
+  font-size: 15px;
+  text-align: left;
+}
+
+.mycomment p:after {
+  content: "";
+  position: absolute;
+  top: 3px; 
+  right: -19px;
+  border: 8px solid transparent;
+  border-left: 18px solid #30e852;
+  -webkit-transform: rotate(-35deg);
+  transform: rotate(-35deg);
+}
+/*ここまでLINE風CSS*/
+
+/*見出し*/
+h6 {
+  position: relative;
+  background: #dfefff;
+  box-shadow: 0px 0px 0px 5px #dfefff;
+  border: dashed 2px white;
+  padding: 0.2em 0.5em;
+  color: #454545;
+  font-size: 1.5em;
+}
+
+h6:after {
+  position: absolute;
+  content: '';
+  left: -7px;
+  top: -7px;
+  border-width: 0 0 15px 15px;
+  border-style: solid;
+  border-color: #fff #fff #a8d4ff;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+/*ボタン*/
+.button {
+  text-align: center;
+  margin: 2em 1em;
+  font-weight: bold;
+}
+
+.btn-square-shadow {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #00CC00;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: -1em;
+}
+
+footer a {
+  color: grey;
+}
