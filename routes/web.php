@@ -13,6 +13,7 @@
 // 獲得用
 Route::get('matching', function () {
     return view('logly.omiai');
+    // return view('logly.noMatch'); //アダルト訴求 
 });
 
 // Omiai_DL
@@ -23,4 +24,9 @@ Route::get('dl', function () {
 // 運営者情報
 Route::get('organize', function () {
     return view('logly.organize');
+});
+
+// LP確認用
+Route::get('cccheck', function () {
+    return view('logly.noMatch');
 });
