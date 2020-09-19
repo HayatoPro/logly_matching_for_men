@@ -12,8 +12,8 @@
 */
 // 獲得用
 Route::get('matching', function () {
-    // return view('logly.omiai');
-    return view('logly.noMatch'); //アダルト訴求 
+    return view('logly.omiai');
+    // return view('logly.noMatch'); //アダルト訴求 
 });
 
 // Omiai_DL
