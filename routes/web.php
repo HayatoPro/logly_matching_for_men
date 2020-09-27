@@ -10,6 +10,20 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+// Googleリスティング
+// 獲得用
+Route::get('game', function () {
+    return view('google.check'); //仮LP
+    // return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //獲得LP
+});
+
+// LP確認用
+Route::get('cccheck2', function () {
+    return redirect('https://a-trade.jp/redirect/anahiro?media=G16531'); //獲得LP
+});
+
+
+// LOGLY
 // 獲得用
 Route::get('matching', function () {
     return view('logly.omiai');
