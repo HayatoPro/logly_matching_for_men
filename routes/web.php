@@ -42,5 +42,7 @@ Route::get('organize', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('logly.noMatch');
+    return view('logly.matching'); //Tapple_LP参考
+    
+    // return view('logly.noMatch'); //アダルト訴求
 });
