@@ -27,6 +27,8 @@ Route::get('cccheck2', function () {
 // 獲得用
 Route::get('matching', function () {
     return view('logly.omiai');
+    // return view('logly.matching'); //Tapple_LP参考
+    
     // return view('logly.noMatch'); //アダルト訴求 
 });
 
@@ -42,7 +44,8 @@ Route::get('organize', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('logly.matching'); //Tapple_LP参考
+    return view('logly.omiai');
+    // return view('logly.matching'); //Tapple_LP参考
     
     // return view('logly.noMatch'); //アダルト訴求
 });
