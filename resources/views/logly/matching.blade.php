@@ -37,8 +37,46 @@
                 <p>なんでも、<span class="pink">「オンラインでデートができる」アプリ</span>があるらしい…<br>ちょっと気になるじゃん！！</p>
             </div>
             
+            <br>
+            
             <div class="top2">
-                <!--ここから続き-->
+                <h3>オンラインデートが予想以上に面白そうな件...</h3>
+                <img src="{{ asset('image/o_lp_5.jpg') }}"></img>
+                <p>気になりすぎて<span class="pink-big">「オンラインデート」</span>について調べてみたんですけど、やっぱり最近って外出の機会が減ってるじゃないですか。</p>
+                <img src="{{ asset('image/o_lp_3.png') }}"></img>
+                <p>そこで、<span class="pink">「オンラインデート」のプランを考える人が増えている</span>らしいんです。</p>
+                <img src="{{ asset('image/o_lp_4.png') }}"></img>
+                <p>でも、<br><span class="pink">「オンラインデート」って言ってもどんなことやるの？</span><br>と思って調べてみると…</p>
+            </div>
+            
+            <div class="top2-below">
+                <div class="title">
+                    <p>ビデオチャットしながら映画を観たり</p>
+                </div>
+                <img src="{{ asset('image/o_lp_6.jpg') }}"></img>
+                <div class="title">
+                    <p>ビデオチャットしながらお酒を飲んだり</p>
+                </div>
+                <img src="{{ asset('image/o_lp_7.jpg') }}"></img>
+                <div class="title">
+                    <p>お寿司好き同士でおしゃべりしたり</p>
+                </div>
+                <img src="{{ asset('image/o_lp_8.jpg') }}"></img>
+                <p>けっこういろいろバリエーションがあるみたいなんですよね。</p>
+                <p><span class="pink">趣味を一緒に語り合ったり</span>、同時に<span class="pink">美味しいものを食べながら映画見たり</span>って、それ普通のデートと一緒じゃん！！</p>
+                <p>実際にオンラインデートをした人たちの満足度も高くて…</p>
+                <img src="{{ asset('image/o_lp_9.png') }}"></img>
+                <p>むしろ</p>
+                <p><span class="highlight-blue-big">普通のデートよりオンラインデートがいい！！</span></p>
+                <p>なんて意見もあるくらい！</p>
+                <p>いいなぁ〜<br>オレもやってみたい！</p>
+                <p><span class="bold-border-bottom">何か良さげなアプリ探してみるか！</span></p>
+            </div>
+            
+            <br>
+            
+            <div class="top3">
+                
             </div>
             
         </div>

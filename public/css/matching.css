@@ -28,6 +28,12 @@ img {
     background: linear-gradient(transparent 60%, #99FFFF 40%);
 }
 
+.highlight-blue-big {
+    font-weight: bold;
+    background: linear-gradient(transparent 60%, #99FFFF 40%);
+    font-size: 1.5em;
+}
+
 .pink {
     font-weight: bold;
     color: #FF00CC;
@@ -37,6 +43,11 @@ img {
     font-weight: bold;
     color: #FF00CC;
     border-bottom: 2px solid #FF00CC;
+}
+
+.bold-border-bottom {
+    font-weight: bold;
+    border-bottom: 2px solid black;
 }
 
 /*body全体ここまで*/
@@ -68,4 +79,20 @@ header h1 {
     font-weight: bold;
     text-align: right;
     margin-top: -0.01em;
+}
+
+.top2 h3 {
+    padding: 0.5em;/*文字周りの余白*/
+    color: #494949;/*文字色*/
+    background: #fffaf4;/*背景色*/
+    border-left: solid 5px #FF00CC;/*左線（実線 太さ 色）*/
+}
+
+.top2-below .title {
+    background-color: #FF00CC;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
 }
