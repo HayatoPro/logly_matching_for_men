@@ -87,26 +87,43 @@
                 <p>しかも！</p>
                 <p><span class="pink">アプリ側で積極的に「オンラインデート」を勧めてくれる</span>から、初めてでもやりやすい！</p>
                 <p>こういうサービスはありがたいですね。特に、<span class="black">自分はあんまりガツガツいけるタイプじゃない</span>のでかなり助かる！</p>
-                <img src="{{ asset('image/o_lp_12.png') }}"></img>
+                <a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow" target="_blank"><img src="{{ asset('image/o_lp_12.png') }}"></img></a>
             </div>
             
             <br>
             
             <div class="top4">
-                
+                <h3>普段の出会いがなくてもしっかりマッチング！これは期待できそう！</h3>
+                <p>実際に利用した人のレポートも読んでみたんですけど、<span class="pink">皆幸せそう！</span></p>
+                <p><span class="pink">初めてマッチングサービスを使った人もうまくいってる</span>っていうのが勇気付けられるなぁ。</p>
+                <img src="{{ asset('image/o_lp_13.png') }}"></img>
+                <img src="{{ asset('image/o_lp_14.png') }}"></img>
+                <img src="{{ asset('image/o_lp_15.png') }}"></img>
+                <p>はぁ〜〜〜羨ましい！</p>
+                <p><span class="pink">毎月10,000人にパートナーが誕生</span>してるらしいので、これならオレも…！<br>って期待しちゃいますよね！！</p>
+                <a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow" target="_blank"><img src="{{ asset('image/o_lp_12.png') }}"></img></a>
+            </div>
+            
+            <br>
+            
+            <div class="top5">
+                <h3>お試しは無料！始めるなら今がチャンス！？</h3>
+                <img src="{{ asset('image/o_lp_16.jpg') }}"></img>
+                <p><span class="bold-border-bottom">無料で始められるし、セキュリティ面も安心！</span></p>
+                <p>時間がじっくりとれるこんな時だからこそ、<span class="pink">おうちで出会いを探してみる</span>のもいいかも！？</p>
+                <p>繰り返しますが</p>
+                <p><span class="highlight-blue-big">お試しは無料</span></p>
+                <p>なので、暇を持て余しているなら、今こそ始め時なのかも！？</p>
+                <p>暗くなりがちな時は、<span class="pink">素敵なパートナーと明るい話題で盛り上がりたい</span>ですよね！</p>
+                <p>オレも早速始めてみたいと思います！！<br>彼女できたら報告しますね笑</p>
+                <a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow" target="_blank"><img src="{{ asset('image/o_lp_17.png') }}"></img></a>
             </div>
         </div>
         
+        <br>
+        
         <footer>
-            
+            <p>copyright @</p>
         </footer>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
     </body>
 </html>
