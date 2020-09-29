@@ -17,6 +17,11 @@ img {
     color: #FF00CC;
 }
 
+.black {
+    font-weight: bold;
+    color: black;
+}
+
 .black-big {
     font-size: 1.5em;
     font-weight: bold;
@@ -49,6 +54,14 @@ img {
     font-weight: bold;
     border-bottom: 2px solid black;
 }
+
+.pink-big-border-bottom {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #FF00CC;
+    border-bottom: 2px solid #FF00CC;
+}
+
 
 /*body全体ここまで*/
 
@@ -95,4 +108,11 @@ header h1 {
     text-align: center;
     height: 2em;
     line-height: 2em;
+}
+
+.top3 h3 {
+    padding: 0.5em;/*文字周りの余白*/
+    color: #494949;/*文字色*/
+    background: #fffaf4;/*背景色*/
+    border-left: solid 5px #FF00CC;/*左線（実線 太さ 色）*/
 }

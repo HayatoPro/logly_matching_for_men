@@ -76,9 +76,25 @@
             <br>
             
             <div class="top3">
-                
+                <h3>オンラインデートするなら「Omiai」がいいらしい！</h3>
+                <img src="{{ asset('image/o_lp_10.jpg') }}"></img>
+                <p>パートナーができたという知り合いに、どうやってオンラインデートしているのか聞いたら、</p>
+                <p><span class="pink-big-border-bottom">「Omiai」</span></p>
+                <p>っていうアプリを使っていることがわかりました。</p>
+                <p>なぜ「Omiai」がおすすめなのかというと…</p>
+                <img src="{{ asset('image/o_lp_11.png') }}"></img>
+                <p>と、とにかく出会える確率はもちろん、<span class="black">サポートに対する安心感も違う</span>らしいんです！</p>
+                <p>しかも！</p>
+                <p><span class="pink">アプリ側で積極的に「オンラインデート」を勧めてくれる</span>から、初めてでもやりやすい！</p>
+                <p>こういうサービスはありがたいですね。特に、<span class="black">自分はあんまりガツガツいけるタイプじゃない</span>のでかなり助かる！</p>
+                <img src="{{ asset('image/o_lp_12.png') }}"></img>
             </div>
             
+            <br>
+            
+            <div class="top4">
+                
+            </div>
         </div>
         
         <footer>
