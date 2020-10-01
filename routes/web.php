@@ -27,8 +27,9 @@ Route::get('cccheck2', function () {
 // 獲得用
 Route::get('matching', function () {
     return view('logly.omiai');
-    // return view('logly.matching'); //Tapple_LP参考
+    // return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
     
+    // return view('logly.matching'); //Tapple_LP参考
     // return view('google.matching2'); //Tapple_LP参考
     // return view('logly.noMatch'); //アダルト訴求 
 });
@@ -46,7 +47,8 @@ Route::get('organize', function () {
 // LP確認用
 Route::get('cccheck', function () {
     // return view('logly.omiai');
-    return view('logly.matching'); //Tapple_LP参考
+    return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
+    // return view('logly.matching'); //Tapple_LP参考
     
     // return view('logly.noMatch'); //アダルト訴求
 });
