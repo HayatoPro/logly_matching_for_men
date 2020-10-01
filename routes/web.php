@@ -26,8 +26,8 @@ Route::get('cccheck2', function () {
 // LOGLY
 // 獲得用
 Route::get('matching', function () {
-    // return view('logly.omiai');
-    return view('logly.matching'); //Tapple_LP参考
+    return view('logly.omiai');
+    // return view('logly.matching'); //Tapple_LP参考
     
     // return view('google.matching2'); //Tapple_LP参考
     // return view('logly.noMatch'); //アダルト訴求 
