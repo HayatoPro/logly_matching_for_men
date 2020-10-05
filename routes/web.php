@@ -23,7 +23,7 @@ Route::get('cccheck2', function () {
 });
 
 
-// LOGLY
+// LOGLY & ドコモアド
 // 獲得用
 Route::get('matching', function () {
     return view('logly.omiai');
