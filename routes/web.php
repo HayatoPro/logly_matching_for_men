@@ -23,7 +23,7 @@ Route::get('cccheck2', function () {
 });
 
 
-// LOGLY & ドコモアド
+// ドコモアド
 // 獲得用
 Route::get('matching', function () {
     return view('logly.omiai');
@@ -33,6 +33,13 @@ Route::get('matching', function () {
     // return view('logly.matching'); //Tapple_LP参考
     // return view('logly.adult');
     // return view('google.matching2'); //Tapple_LP参考
+});
+
+// LOGLY
+// 獲得用
+Route::get('dating', function () {
+    return view('logly.omiai');
+    // return redirect('https://a-trade.jp/redirect/fatey-multi?media=G16531');
 });
 
 // Omiai_DL
