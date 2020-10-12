@@ -39,7 +39,7 @@ Route::get('matching', function () {
 // 獲得用
 Route::get('dating', function () {
     return view('logly.omiai');
-    // return redirect('https://a-trade.jp/redirect/fatey-multi?media=G16531');
+    // return redirect('https://preaf.jp/pa.do?s=v04031&o=45765&guid=ON'); //トークウィズ - Preaf
 });
 
 // Omiai_DL
