@@ -35,6 +35,13 @@ Route::get('matching', function () {
     // return view('google.matching2'); //Tapple_LP参考
 });
 
+// ドコモアド
+// チャットレディー獲得用
+Route::get('news', function () {
+    return view('logly.omiai');
+    // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //ビスコール
+});
+
 // LOGLY
 // 獲得用
 Route::get('dating', function () {
