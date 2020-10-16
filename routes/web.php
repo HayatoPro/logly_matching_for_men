@@ -26,8 +26,8 @@ Route::get('cccheck2', function () {
 // ドコモアド
 // 獲得用
 Route::get('matching', function () {
-    // return view('logly.omiai');
-    return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
+    return view('logly.omiai');
+    // return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
     
     // return view('logly.noMatch'); //アダルト訴求 
     // return view('logly.matching'); //Tapple_LP参考
@@ -38,8 +38,8 @@ Route::get('matching', function () {
 // ドコモアド
 // チャットレディー獲得用
 Route::get('news', function () {
-    // return view('logly.omiai');
-    return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //ビスコール
+    return view('logly.omiai');
+    // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //ビスコール
 });
 
 // LOGLY
