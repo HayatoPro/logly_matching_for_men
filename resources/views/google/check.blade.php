@@ -10,7 +10,6 @@
     </head>
     <body>
         <br>
-        <h1>応募多数！<br>スキマ時間を活かそう！</h1>
         <img src="{{ asset('image/top.jpg') }}"></img>
         <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/17live-%E3%82%A4%E3%83%81%E3%83%8A%E3%83%8A-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1-%E3%82%A2%E3%83%97%E3%83%AA/id988259048">コチラ</a>をタップして下さい。</p>
     </body>
