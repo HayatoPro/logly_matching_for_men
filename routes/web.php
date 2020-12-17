@@ -12,8 +12,8 @@
 */
 // 男性向けアダルトライブ獲得用
 Route::get('live', function () {
-    return view('google.check'); //仮LP
-    // return view('logly.noMatch'); //アダルト訴求
+    // return view('google.check'); //仮LP
+    return view('logly.noMatch'); //アダルト訴求
 });
 
 //OS判定
