@@ -13,6 +13,8 @@
 // 男性向けアダルトライブ獲得用
 Route::get('live', function () {
     return view('google.check'); //仮LP
+    // return redirect('https://a-trade.jp/redirect/tokyolivetalk?media=G16531'); //VideoLiveTalk - Aトレード
+    
     // return view('logly.noMatch'); //アダルト訴求
 });
 
