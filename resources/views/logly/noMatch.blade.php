@@ -21,6 +21,7 @@
                 <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
                 <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
                 <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
+                <h1 class="button_below_h1"><span>一見普通のアプリだが...実際は..。</span></h1>
             </div>
             
             <div class="big-body-main">
@@ -59,6 +60,7 @@
                     <div class="center">
                         <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
                     </div>
+                    <p class="button_below_p">一見普通のアプリだが...実際は..。</p>
                     <div class="line2"></div>
                     <div class="center">
                         <img src="{{ asset('image/lp_ad_6.JPG') }}">
