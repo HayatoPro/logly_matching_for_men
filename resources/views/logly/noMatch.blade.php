@@ -9,9 +9,9 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <header>
-            <p>裏垢女子まとめ@5ch</p>
-        </header>
+        <!--<header>-->
+        <!--    <p>裏垢女子まとめ@5ch</p>-->
+        <!--</header>-->
         
         <div class="big-body">
             <img src="{{ asset('image/lg_head.jpg') }}" class="wide">
@@ -20,13 +20,13 @@
                 <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
                 <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
                 <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
-                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
+                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料ダウンロード <i class="fas fa-external-link-alt"></i></a>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
                     <h1>インスタ・Twitter・TikTokで垢BANされた裏垢女子多数！<br>出会いを目的とした裏掲示板の実態とは..!?</h1>
-                    <p>2020年09月15日20:03</p>
+                    <p>2021年01月26日20:03</p>
                 </div>
                 
                 <div class="body-main-2">
@@ -40,7 +40,7 @@
                     <br>
                     <br>
                     <h3>連絡用TwitterIDが載っていて、即アポも可能..!?</h3>
-                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、直接SNSでやり取りするのもOK。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、<span class="red">定期的にオフ会を開催</span>しているケースも。オフ会でなにをするかは言わずもがな。</p>
+                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、<span class="red">直接SNSでやり取りするのもOK</span>。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、定期的にオフ会を開催しているケースも。オフ会でなにをするかは言わずもがな。</p>
                     <img src="{{ asset('image/uraLive_1.JPG') }}">
                     <br>
                     <br>
@@ -57,7 +57,7 @@
                     <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
                     <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
                     <div class="center">
-                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
+                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料ダウンロード <i class="fas fa-external-link-alt"></i></a>
                     </div>
                     <div class="line2"></div>
                     <div class="center">
@@ -69,7 +69,7 @@
             </div>
         </div>
         <footer>
-            <p>裏垢女子まとめ@5ch</p>
+            <p>渋谷裏界隈@DW</p>
         </footer>
     </body>
 </html>
