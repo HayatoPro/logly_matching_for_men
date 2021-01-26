@@ -14,13 +14,13 @@
         <!--</header>-->
         
         <div class="big-body">
-            <img src="{{ asset('image/lg_head.jpg') }}" class="wide">
+            <img src="{{ asset('image/ad_top_1_yt.JPG') }}" class="wide">
             <div class="body-top">
                 <h1><span>37歳おっさんが『真剣に』出会い探してみた結果...</span></h1>
                 <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
                 <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
                 <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
-                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料ダウンロード <i class="fas fa-external-link-alt"></i></a>
+                <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
             </div>
             
             <div class="big-body-main">
@@ -57,7 +57,7 @@
                     <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
                     <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
                     <div class="center">
-                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 無料ダウンロード <i class="fas fa-external-link-alt"></i></a>
+                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
                     </div>
                     <div class="line2"></div>
                     <div class="center">
