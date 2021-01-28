@@ -14,7 +14,7 @@
         <!--</header>-->
         
         <div class="big-body">
-            <img src="{{ asset('image/ad_top_1_yt.JPG') }}" class="wide">
+            <img src="{{ asset('image/ad_top_1_yt_2-2.jpg') }}" class="wide">
             <div class="body-top">
                 <h1><span>37歳おっさんが『真剣に』出会い探してみた結果...</span></h1>
                 <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
@@ -71,7 +71,7 @@
             </div>
         </div>
         <footer>
-            <p>渋谷裏界隈@DW</p>
+            <p>裏まとめ界隈@DW</p>
         </footer>
     </body>
 </html>
