@@ -320,7 +320,7 @@
         <footer>
             <h3><span class="header-span">LEMON.</span></h3>
             <br>
-            <a href="/organize" target="_blank">運営元</a>
+            <!--<a href="/organize" target="_blank">運営元</a>-->
         </footer>
     </body>
 </html>

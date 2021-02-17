@@ -33,6 +33,18 @@ Route::get('cccheck', function () {
     // return view('google.matching2'); //Tapple_LP参考
 });
 
+// appollo提出用
+Route::get('matching', function () {
+    return view('logly.matching'); //Tapple_LP
+    
+    // return view('logly.noMatch'); //アダルト訴求
+    // return view('google.job'); //女性 - 獲得LP
+    // return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
+    // return view('logly.adult');
+    // return view('logly.omiai');
+    // return view('google.matching2'); //Tapple_LP参考
+});
+
 
 
 
