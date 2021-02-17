@@ -66,7 +66,7 @@ Route::get('cccheck2', function () {
 
 // ドコモアド
 // 獲得用
-Route::get('matching', function () {
+Route::get('dating', function () {
     return view('logly.omiai');
     // return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
     
