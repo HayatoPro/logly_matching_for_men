@@ -11,7 +11,7 @@
 |
 */
 // 男性向けアダルトライブ獲得用
-Route::get('app11', function () {
+Route::get('new1', function () {
     return view('google.check'); //仮LP
     // return view('logly.noMatch'); //アダルト訴求
     
