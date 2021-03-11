@@ -17,16 +17,16 @@
             <img src="{{ asset('image/ad_top_1_yt_2-2.jpg') }}" class="wide">
             <div class="body-top">
                 <h1><span>37歳おっさんが『真剣に』出会い探してみた結果...</span></h1>
-                <h1><span>出会いを目的とした<br>『裏マッチング』が今熱い！</span></h1>
+                <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
                 <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
-                <h1><span>裏出会い系のアプリ版</span></h1>
+                <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
                 <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 最短1分で始める <i class="fas fa-external-link-alt"></i></a>
                 <h1 class="button_below_h1"><span>一見普通のアプリだが...実際は..。</span></h1>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>ワケありで出会いを求める裏垢女子多数！<br>出会いを目的とした裏アプリの実態とは..!?</h1>
+                    <h1>インスタ・Twitter・TikTokで垢BANされた裏垢女子多数！<br>出会いを目的とした裏掲示板の実態とは..!?</h1>
                     <p>2021年02月26日20:03</p>
                 </div>
                 
@@ -35,13 +35,13 @@
                 </div>
                 
                 <div class="body-main-3">
-                    <h3>ワケあり、セフレ、援交、パパ活 etc... ガチ裏垢女子が見つかる裏アプリ</h3>
-                    <p>出会いを求めて流れてきた裏垢女子が多数。特に<span class="red">10代後半~20代半ばの若者が多数</span>。<br><br>割り切りセックスは勿論、長期的な関係や気軽なデート募集などなど。</p>
+                    <h3>オナ電、セフレ、援交、パパ活 etc... ガチ裏垢女子が見つかる裏掲示板</h3>
+                    <p>某SNSを垢BANされて流れてきた裏垢女子が多数。特に<span class="red">10代後半~20代半ばの若者が多数</span>。<br><br>割り切りセックスは勿論、長期的な関係や気軽なデート募集などなど。</p>
                     <img src="{{ asset('image/lp_ad_3.JPG') }}">
                     <br>
                     <br>
-                    <h3>即マッチ即アポも可能..!?</h3>
-                    <p>基本的には画像で女性の顔を見てまずはアプリ内で会話する形だけど、<span class="red">直接SNSでやり取りできる</span>?</p>
+                    <h3>連絡用TwitterIDが載っていて、即アポも可能..!?</h3>
+                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、<span class="red">直接SNSでやり取りするのもOK</span>。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、定期的にオフ会を開催しているケースも。オフ会でなにをするかは言わずもがな。</p>
                     <img src="{{ asset('image/uraLive_1.JPG') }}">
                     <br>
                     <br>
@@ -63,7 +63,7 @@
                     <p class="button_below_p">一見普通のアプリだが...実際は..。</p>
                     <div class="line2"></div>
                     <div class="center">
-                        <a href="./os" target="_blank"><img src="{{ asset('image/IMG_5912-2.jpg') }}"></a>
+                        <a href="./os" target="_blank"><img src="{{ asset('image/lp_ad_6.JPG') }}"></a>
                         <p>普通のマッチングアプリで出会得ない気軽な関係探しなら...。</p>
                     </div>
                     <br>
